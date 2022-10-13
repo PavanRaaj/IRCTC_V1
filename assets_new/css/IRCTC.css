@@ -1,0 +1,223 @@
+header {
+  height: 80px;
+}
+.Secondary_logo {
+  height: 85px;
+  width: 80px;
+  padding: 10px;
+  margin-left: 20px;
+  padding-top: 5px;
+}
+.logo {
+  width: 69.8px;
+  height: 80px;
+  padding: 10px;
+  margin-left: 1260px;
+  padding-top: 0px;
+  margin-top: -480px;
+}
+button {
+  cursor: pointer;
+  outline: none;
+  border: none;
+}
+.buttons {
+  margin-left: 450px;
+  margin-top: -95px;
+  margin-bottom: 50px;
+}
+.Login_button {
+  width: 66.33px;
+  height: 32px;
+  color: white;
+  padding: 7px 8px;
+  background-color: #213d77;
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: 800;
+  margin-top: -150px;
+}
+.Register_button {
+  width: 94.61px;
+  height: 18px;
+  color: #000000;
+  padding: 0px 8px;
+  font-family: sans-serif;
+  font-size: 14px;
+  background-color: transparent;
+}
+.Agent-login_button {
+  width: 115.22px;
+  height: 18px;
+  color: #000000;
+  padding: 0px 8px;
+  font-family: sans-serif;
+  font-size: 14px;
+  background-color: transparent;
+}
+.Contactus_button {
+  width: 117.69px;
+  height: 18px;
+  color: #000000;
+  padding: 0px 8px;
+  font-family: sans-serif;
+  font-size: 14px;
+  background-color: transparent;
+}
+.Ashdisha_button {
+  width: 97.31px;
+  height: 18px;
+  color: #000000;
+  padding: 0px 8px;
+  font-family: sans-serif;
+  font-size: 14px;
+  background-color: transparent;
+}
+.Alerts_button {
+  width: 90.11px;
+  height: 32px;
+  padding: 7px 8px;
+  color: #000000;
+  background-color: #dedede;
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: 800;
+}
+.Second-row_buttons {
+  margin-left: -0px;
+  margin-top: 14px;
+}
+.Home_button{   
+    background-color: transparent;
+}
+i{
+    width: 37.08px;
+    height: 32px;
+    color: #000000;
+}
+.Irctc-exclusive_button{
+width: 159.27px;
+height: 32px;
+background-color: #213D77;
+color: #FFFFFF;
+font-weight: 800;
+font-size: 14px;
+padding: 6px 14px;
+font-family: sans-serif;
+}
+.Trains_button{
+    width: 66.22px;
+    height: 32px;
+    color: #FB792B;
+    text-decoration: underline;
+    font-size: 15px;
+    padding: 0px 8px;
+    font-family: sans-serif;
+    font-weight: 800;
+    background-color: transparent;
+    text-underline-position: below;
+    text-underline-position: auto;
+}
+.Buses_button{
+    width: 61.22px;
+    height: 32px;
+    color: #000000;
+    padding: 0px 8px;
+    font-size: 14px;
+    font-family: sans-serif;
+    background-color: transparent;
+}
+.Flights_button{
+    width: 73.58px;
+    height: 32px;
+    color: #000000;
+    padding: 0px 8px;
+    font-size: 14px;
+    font-family: sans-serif;
+    background-color: transparent;
+}
+.Hotels_button{
+    width: 70.13px;
+    height: 32px;
+    color: #000000;
+    padding: 0px 8px;
+    font-size: 14px;
+    font-family: sans-serif;
+    background-color: transparent;
+}
+.Holiday_button{
+    width: 84.56px;
+    height: 32px;
+    color: #000000;
+    padding: 0px 8px;
+    font-size: 14px;
+    font-family: sans-serif;
+    background-color: transparent;
+}
+.Loyalty_button{
+    width: 75.41px;
+    height: 32px;
+    color: #000000;
+    padding: 0px 8px;
+    font-size: 14px;
+    font-family: sans-serif;
+    background-color: transparent;
+}
+.Meals_button{
+    width: 61.22px;
+    height: 32px;
+    color: #000000;
+    padding: 0px 8px;
+    font-size: 14px;
+    font-family: sans-serif;
+    background-color: transparent;
+}
+.Promotions_button{
+    width: 111.17px;
+    height: 32px;
+    color: #000000;
+    padding: 0px 8px;
+    font-size: 14px;
+    font-family: sans-serif;
+    background-color: transparent;
+}
+.Premium-partner_button{
+    width: 169.89px;
+    height: 32px;
+    color: #FFFFFF;
+    background-color: #213D77;
+    padding: 6px 14px;
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: 800;
+}
+.More_button{
+    width: 55.41px;
+    height: 32px;
+    color: #000000;
+    padding: 0px 8px;
+    font-size: 14px;
+    font-family: sans-serif;
+    background-color: transparent;
+}
+/* .Main_box{
+    background-image: url("./../images/railwaybg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-top: -75px;
+    width: 1830px;
+    height: 700px;
+} */
+.Text_in_diagram_1{
+    padding-top: 270px;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 1100px;
+    margin-top: 100px;
+}
+.Text_in_diagram_2{
+    font-size: 30px;
+    margin-left: 1150px;
+    margin-top: -50px;
+}
